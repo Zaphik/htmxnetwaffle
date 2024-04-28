@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "g5ERp15fnyKaIv79i+x+/aGNrqjJ9k3GJsvJqiNVDOE=",
+  "Source": "SSR",
+  "BasePath": "_content/SSR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SSR/wwwroot",
+      "Source": "SSR",
+      "ContentRoot": "/Users/umarfarrukh/RiderProjects/SSR/SSR/wwwroot/",
+      "BasePath": "_content/SSR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/umarfarrukh/RiderProjects/SSR/SSR/wwwroot/index.html",
+      "SourceId": "SSR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/umarfarrukh/RiderProjects/SSR/SSR/wwwroot/",
+      "BasePath": "_content/SSR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
